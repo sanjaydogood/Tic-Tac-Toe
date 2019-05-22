@@ -1,4 +1,4 @@
-from IPython.display import clear_output
+#from IPython.display import clear_output
 row = [0,3,6]       #This list is a "row reference" list which provides the position number of the first column for each row
 def intro_mark_choose():
     flag = 0
