@@ -9,12 +9,7 @@ General Information :
 
 Note: If using Jupyter Notebok, uncomment the lines and replace "print('\n\n\n')" with "clear_output()".
 
+A sample output is in a file called "Sample.txt" in this repository.
+
 Now go flex 'em neurons!!
-
-A sample output:
-
-
-   |     | 
-   |  X  |
-   |     |
------------------   
+ 
